@@ -3,7 +3,7 @@ set -e
 
 # ===== USER CONFIGURATION =====
 # Replace this URL with the direct raw link to your uploaded tarball
-CUSTOM_TARBALL_URL="https://raw.githubusercontent.com/your-username/your-repo/main/GooseRelayVPN-server-linux-amd64.tar.gz"
+CUSTOM_TARBALL_URL="https://raw.githubusercontent.com/ee-maniac/ee-maniac-test/main/GooseRelayVPN-server-v1.7.1-linux-amd64.tar.gz"
 # =============================
 
 INSTALL_DIR="/root/goose"
