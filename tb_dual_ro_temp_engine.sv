@@ -1,4 +1,3 @@
-// testbench for dual_ro_temp_engine
 `timescale 1ns/1ps
 
 `define DEBUG   // Enable debug prints (comment out to disable)
